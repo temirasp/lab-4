@@ -1,0 +1,43 @@
+header {
+    
+    height: 400px;
+    text-align: center;
+   
+    background-image: url("coffee-biscuits.jpg");
+    background-size: cover;
+    background-size: 1300px 400px;
+    color: aliceblue;
+    }
+body {
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(247, 247, 247);
+}
+.jj{
+   margin-top: 100px;
+   text-align: center;
+   margin: auto;
+}
+.gg {
+    background-color: rgb(195, 199, 206);
+
+}
+.dd {
+    background-color: rgb(232, 233, 235);
+}
+footer {
+    background-color: aqua;
+    text-align: center ;
+    height: 150px;
+}
+
+#rectangle{
+    margin-top: 100px;
+    width:400px;
+    height:100px;
+    background:rgb(80, 80, 82);
+    opacity: 0.7;
+    
+}
+
